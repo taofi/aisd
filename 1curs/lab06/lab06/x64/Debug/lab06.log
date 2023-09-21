@@ -1,0 +1,6 @@
+﻿  lab06.cpp
+C:\Users\User\Desktop\ун\аисд\lab06\lab06\lab06.cpp(68,22): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\аисд\lab06\lab06\lab06.cpp(102,22): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\аисд\lab06\lab06\lab06.cpp(132,22): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\аисд\lab06\lab06\lab06.cpp(157,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab06.vcxproj -> C:\Users\User\Desktop\ун\аисд\lab06\x64\Debug\lab06.exe
