@@ -1,0 +1,3 @@
+﻿  algPrima.cpp
+D:\projects\aisd\algPrima\algPrima\algPrima.cpp(22,38): warning C4101: lastMin: неиспользованная локальная переменная
+  algPrima.vcxproj -> D:\projects\aisd\algPrima\x64\Debug\algPrima.exe
