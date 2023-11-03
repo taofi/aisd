@@ -1,0 +1,3 @@
+﻿  maxPosled.cpp
+D:\projects\aisd\maxPosled\maxPosled\maxPosled.cpp(11,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  maxPosled.vcxproj -> D:\projects\aisd\maxPosled\x64\Debug\maxPosled.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huffman", "Huffman\Huffman.vcxproj", "{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Debug|x64.ActiveCfg = Debug|x64
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Debug|x64.Build.0 = Debug|x64
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Debug|x86.Build.0 = Debug|Win32
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Release|x64.ActiveCfg = Release|x64
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Release|x64.Build.0 = Release|x64
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Release|x86.ActiveCfg = Release|Win32
+		{97EE17CD-B2C4-4844-A642-9DA5D7BE8DAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDA85A9-C6B1-4035-B8FA-900B1AA7F0BD}
+	EndGlobalSection
+EndGlobal
